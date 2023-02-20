@@ -1,0 +1,10 @@
+.header{
+    background-color: cadetblue;
+  }
+  
+  h1{color:brown}
+  *{border:solid}
+  
+  .item:hover img{
+    opacity: 0.33;
+  } 
